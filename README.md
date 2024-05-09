@@ -24,4 +24,4 @@
 #
 
 
-ıllıllı ʟɪɴᴋᴛʀᴇᴇ: [ᴄᴏɴᴛᴀᴄᴛ.ᴍᴀx-sᴘᴀʜɴ.ᴅᴇ](https://contact.max-spahn.de) ıllıllı
+ıllıllı ʟɪɴᴋᴛʀᴇᴇ: [ᴄᴏɴᴛᴀᴄᴛ.ᴍᴀx-sᴘᴀʜɴ.ᴅᴇ](https://spmaxsp.github.io/linktree/) ıllıllı
