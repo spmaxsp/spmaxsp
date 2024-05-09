@@ -1,16 +1,27 @@
-### Hi there 👋
+#
 
-<!--
-**spmaxsp/spmaxsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/spmaxsp.png" alt="Profile Picture" width="20%" margin="auto"/>
+  <br>
+  ▀▄▀▄▀▄ sᴘᴍᴀxsᴘ ▄▀▄▀▄▀
+</p>
 
-Here are some ideas to get you started:
+#
+# 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there!👋
+#### I'm Maximilian Spahn
+
+🎓 Electrical Engineering Student at University of Applied Sciences Aschaffenburg
+
+💻 Programming mostly in C/C++ and Python, as well as some web development
+
+🔌 Experienced in PCB design 
+
+✉️ Feel free to reach out: info@max-spahn.de
+
+#
+
+
+ıllıllı ʟɪɴᴋᴛʀᴇᴇ: [ᴄᴏɴᴛᴀᴄᴛ.ᴍᴀx-sᴘᴀʜɴ.ᴅᴇ](https://contact.max-spahn.de) ıllıllı
